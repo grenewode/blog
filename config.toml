@@ -6,7 +6,7 @@ googleAnalytics = ""
 
 [params]
     author = "Robin Miller"
-    description = "The musings of a young fool"
+    description = "The musings of a young fool, currently under construction"
     githubUsername = "grenewode"
     accent = "red"
     showBorder = true
